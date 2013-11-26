@@ -12,7 +12,7 @@ public class TipoCuenta {
     private int idTipoCuenta;
     private String nombreCuenta;
     private String naturaleza;
-
+    
     /**
      * @return the idTipoCuenta
      */
@@ -54,7 +54,4 @@ public class TipoCuenta {
     public void setNaturaleza(String naturaleza) {
         this.naturaleza = naturaleza;
     }
-    
-    
-    
 }
